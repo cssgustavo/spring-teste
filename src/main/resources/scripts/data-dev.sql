@@ -1,0 +1,1 @@
+insert into motoristas (id, motorista_nome, motorista_placa, motorista_carro, motorista_doc, motorista_data) values (nextval('motoristas_seq'), 'Gustavo', '1234567', 'Sandero', '4738274823', '2024-06-07');
